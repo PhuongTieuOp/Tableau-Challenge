@@ -30,5 +30,5 @@ Created new csv files.
 #### - Page2, 'User vs. Bike Type' docked_bike were used only by casual.
 #### - Page3, 'Hourly Ride per year' 8am and 6pm were peak hour for the start-time.
 #### - Page4, Top 7 start-stations are also top 7 end-stations. Bottom 10th end-station had very few rides.
-#### - Page5 and 6, start-stations are mostly located at Jersey City.
-#### - Page7 and 8, end-stations are majority located at the Jersey City, yet lots of bike ended up scatter around Central Park, Hudson Square and New York city.
+#### - Page5, start-stations are mostly located at Jersey City.
+#### - Page6, end-stations are majority located at the Jersey City, yet lots of bike ended up scatter around Central Park, Hudson Square and New York city.
